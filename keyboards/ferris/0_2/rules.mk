@@ -19,4 +19,4 @@ SRC += matrix.c
 QUANTUM_LIB_SRC += i2c_master.c
 
 DEFAULT_FOLDER = ferris/0_2/base
-BOOTLOADER = stm32-dfu2
+BOOTLOADER = stm32-dfu
